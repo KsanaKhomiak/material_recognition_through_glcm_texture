@@ -25,3 +25,7 @@ it provides  clear recognition of the material, estimation of its structure and 
 
 ![material_recognition_performance](https://user-images.githubusercontent.com/106553826/234713604-9187899c-01f7-4a7c-ae21-7f6a75142162.png)
 
+
+
+Note:
+Input video data was provided by Royal Eijkelkamp.
